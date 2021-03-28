@@ -24,7 +24,17 @@ SO THAT my company can compete with other e-commerce companies
 Run `npm install` to install dependency [MySQL2](https://www.npmjs.com/package/mysql2), [Sequelize](https://www.npmjs.com/package/sequelize), [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Usage
+The following animation demonstrates how to create the schema from the MySQL shell, how to seed the database from the command line and how to start the application’s server.
+![Demo for creating schema, seeding database, starting server](./assets/startDemo.gif)
 
+The following animation demonstrates the GET, POST, PUT, and DELETE routes for categories.
+![Demo for GET, POST, PUT, DELETE for categories](./assets/categoriesDemo.gif)
+
+The following animation demonstrates the GET, POST, PUT, and DELETE routes for products.
+![Demo for GET, POST, PUT, DELETE for products](./assets/productsDemo.gif)
+
+The following animation demonstrates the GET, POST, PUT, and DELETE routes for tags.
+![Demo for GET, POST, PUT, DELETE for tags](./assets/tagsDemo.gif)
 
 ## Contributors
 See the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
